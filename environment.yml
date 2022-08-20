@@ -1,0 +1,12 @@
+name: nano-cavity
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - ipython
+  - jupyterlab
+  - myst-nb
+  - jupytext
+  - nodejs
+  - scipy
