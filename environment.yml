@@ -10,3 +10,6 @@ dependencies:
   - jupytext
   - nodejs
   - scipy
+  - matplotlib
+  - pip
+  - pymeep
